@@ -1,0 +1,10 @@
+    1  git clone https://github.com/u230709057/dblab2026.git
+    2  cd dblab2026
+    3  mkdir week2
+    4  cd week2
+    5  touch installation.sh
+    6  ls
+    7  ls
+    8  ls
+    9  nano installation.sh
+   10  history
